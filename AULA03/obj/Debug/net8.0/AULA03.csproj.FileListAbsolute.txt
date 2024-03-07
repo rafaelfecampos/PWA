@@ -39,3 +39,4 @@
 /home/aluno/Área de Trabalho/Rafael/PWA/AULA03/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
 /home/aluno/Área de Trabalho/Rafael/PWA/AULA03/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
 /home/aluno/Área de Trabalho/Rafael/PWA/AULA03/obj/Debug/net8.0/AULA03.csproj.CopyComplete
+/home/aluno/Área de Trabalho/Rafael/PWA/AULA03/bin/Debug/net8.0/Dapper.dll
