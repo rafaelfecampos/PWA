@@ -1,0 +1,15 @@
+/home/aluno/Área de Trabalho/Rafael/PWA/AULA04/bin/Debug/net8.0/AULA04
+/home/aluno/Área de Trabalho/Rafael/PWA/AULA04/bin/Debug/net8.0/AULA04.deps.json
+/home/aluno/Área de Trabalho/Rafael/PWA/AULA04/bin/Debug/net8.0/AULA04.runtimeconfig.json
+/home/aluno/Área de Trabalho/Rafael/PWA/AULA04/bin/Debug/net8.0/AULA04.dll
+/home/aluno/Área de Trabalho/Rafael/PWA/AULA04/bin/Debug/net8.0/AULA04.pdb
+/home/aluno/Área de Trabalho/Rafael/PWA/AULA04/obj/Debug/net8.0/AULA04.GeneratedMSBuildEditorConfig.editorconfig
+/home/aluno/Área de Trabalho/Rafael/PWA/AULA04/obj/Debug/net8.0/AULA04.AssemblyInfoInputs.cache
+/home/aluno/Área de Trabalho/Rafael/PWA/AULA04/obj/Debug/net8.0/AULA04.AssemblyInfo.cs
+/home/aluno/Área de Trabalho/Rafael/PWA/AULA04/obj/Debug/net8.0/AULA04.csproj.CoreCompileInputs.cache
+/home/aluno/Área de Trabalho/Rafael/PWA/AULA04/obj/Debug/net8.0/AULA04.sourcelink.json
+/home/aluno/Área de Trabalho/Rafael/PWA/AULA04/obj/Debug/net8.0/AULA04.dll
+/home/aluno/Área de Trabalho/Rafael/PWA/AULA04/obj/Debug/net8.0/refint/AULA04.dll
+/home/aluno/Área de Trabalho/Rafael/PWA/AULA04/obj/Debug/net8.0/AULA04.pdb
+/home/aluno/Área de Trabalho/Rafael/PWA/AULA04/obj/Debug/net8.0/AULA04.genruntimeconfig.cache
+/home/aluno/Área de Trabalho/Rafael/PWA/AULA04/obj/Debug/net8.0/ref/AULA04.dll
