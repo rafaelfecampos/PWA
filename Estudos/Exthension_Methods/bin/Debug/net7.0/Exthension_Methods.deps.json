@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Exthension_Methods/1.0.0": {
+        "runtime": {
+          "Exthension_Methods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exthension_Methods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

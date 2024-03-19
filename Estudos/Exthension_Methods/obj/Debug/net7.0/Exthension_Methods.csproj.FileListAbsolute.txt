@@ -1,0 +1,15 @@
+C:\Users\Usuário\OneDrive\Documentos\ADS\Periodo3\PWA\Estudos\Exthension_Methods\bin\Debug\net7.0\Exthension_Methods.exe
+C:\Users\Usuário\OneDrive\Documentos\ADS\Periodo3\PWA\Estudos\Exthension_Methods\bin\Debug\net7.0\Exthension_Methods.deps.json
+C:\Users\Usuário\OneDrive\Documentos\ADS\Periodo3\PWA\Estudos\Exthension_Methods\bin\Debug\net7.0\Exthension_Methods.runtimeconfig.json
+C:\Users\Usuário\OneDrive\Documentos\ADS\Periodo3\PWA\Estudos\Exthension_Methods\bin\Debug\net7.0\Exthension_Methods.dll
+C:\Users\Usuário\OneDrive\Documentos\ADS\Periodo3\PWA\Estudos\Exthension_Methods\bin\Debug\net7.0\Exthension_Methods.pdb
+C:\Users\Usuário\OneDrive\Documentos\ADS\Periodo3\PWA\Estudos\Exthension_Methods\obj\Debug\net7.0\Exthension_Methods.csproj.AssemblyReference.cache
+C:\Users\Usuário\OneDrive\Documentos\ADS\Periodo3\PWA\Estudos\Exthension_Methods\obj\Debug\net7.0\Exthension_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\OneDrive\Documentos\ADS\Periodo3\PWA\Estudos\Exthension_Methods\obj\Debug\net7.0\Exthension_Methods.AssemblyInfoInputs.cache
+C:\Users\Usuário\OneDrive\Documentos\ADS\Periodo3\PWA\Estudos\Exthension_Methods\obj\Debug\net7.0\Exthension_Methods.AssemblyInfo.cs
+C:\Users\Usuário\OneDrive\Documentos\ADS\Periodo3\PWA\Estudos\Exthension_Methods\obj\Debug\net7.0\Exthension_Methods.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\OneDrive\Documentos\ADS\Periodo3\PWA\Estudos\Exthension_Methods\obj\Debug\net7.0\Exthension_Methods.dll
+C:\Users\Usuário\OneDrive\Documentos\ADS\Periodo3\PWA\Estudos\Exthension_Methods\obj\Debug\net7.0\refint\Exthension_Methods.dll
+C:\Users\Usuário\OneDrive\Documentos\ADS\Periodo3\PWA\Estudos\Exthension_Methods\obj\Debug\net7.0\Exthension_Methods.pdb
+C:\Users\Usuário\OneDrive\Documentos\ADS\Periodo3\PWA\Estudos\Exthension_Methods\obj\Debug\net7.0\Exthension_Methods.genruntimeconfig.cache
+C:\Users\Usuário\OneDrive\Documentos\ADS\Periodo3\PWA\Estudos\Exthension_Methods\obj\Debug\net7.0\ref\Exthension_Methods.dll
